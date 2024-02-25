@@ -1,0 +1,29 @@
+.container {
+        margin:50px auto;
+        max-width: 500px;
+        max-height: 500px;
+        padding: 100px ;
+         font-family: 'Merriweather', serif;
+         border: 1px solid;
+         border-radius: 20px;
+     
+    }
+    /*h1, input[type=search] ,p{
+text-align: center;
+    }
+    button, input{
+        margin:0 auto;
+        display: block;
+    }*/
+    .day{
+        word-spacing: 150px;
+    }
+    .search{
+padding: 0 0 10px;
+border-radius: 0%;
+    }
+
+    button{
+background-color:rgb(90, 199, 229);
+
+    }
